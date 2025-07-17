@@ -32,4 +32,4 @@ Help clients **edit, update, and customize** their existing WordPress websites w
 ---
 
 🧑‍💻 Want help updating your WordPress site?  
-Feel free to contact me through [Khamsat](https://khamsat.com/user/YOUR_USERNAME) or GitHub.
+Feel free to contact me through GitHub.
